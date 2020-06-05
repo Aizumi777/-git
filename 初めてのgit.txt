@@ -3,4 +3,6 @@ git 初めてのGit
 git add
 git commit
 git remove
-git statsu
+
+git dif
+git pra
